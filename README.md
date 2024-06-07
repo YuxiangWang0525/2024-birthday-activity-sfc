@@ -30,6 +30,6 @@ import MainComponents from './components/Main.vue';
 ## 启动Vite开发服务器查看效果
 ``` shell
 yarn dev
-```
-访问http://localhost:5173/ 你应该能看到空空的蛋糕在页面上
+```  
+访问http://localhost:5173/ 你应该能看到空空的蛋糕在页面上  
 **恭喜你 你成功部署了这个项目**
