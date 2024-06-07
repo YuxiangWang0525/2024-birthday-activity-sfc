@@ -11,7 +11,7 @@
 yarn create vite my-vue-app --template vue
 ```
 **这个项目是纯Vue+JavaScript编写的,没有一行TypeScript代码。如果你只是想装一下,那就没必要创建vue-ts项目**
-## 应用组件
+### 应用组件
 生成好了你会发现目录结构中有个src目录,展开目录后你一定能看到components目录和App.vue  
 你要做的就是把Main.vue丢进去,按里面的注释指引修改一下里面的内容  
 然后打开App.vue 输入如下代码  
